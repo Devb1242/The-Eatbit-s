@@ -1,4 +1,4 @@
-- Utilized HTML, CSS, PHP, JavaScript, SQL, jQuery, and Ajax to create a dynamic and responsive web interface.
+- Utilized HTML, CSS, PHP, JavaScript, MongoDB, jQuery, and Ajax to create a dynamic and responsive web interface.
 -	**User Site:** Allows users to explore product flavors, company locations, history, and opportunities to become a distributor.
 -	**Distributor Portal:** Enables distributors to place orders, track order history, view pending amounts, and communicate with the manager via an integrated messaging system akin to WhatsApp.
 -	**Manager Portal:** Manages production details, raw material usage, and tracks company profit, loss, and expenses.
